@@ -107,7 +107,11 @@ const styles = StyleSheet.create({
   Text_20: { fontSize: 8, fontFamily: "Lato-Regular" },
   View_21: {
     width: "100%",
-    height: 65,
+    height: 60,
+    paddingLeft: 10,
+    paddingRight: 10,
+    paddingTop: 10,
+    paddingBottom: 10,
     flexDirection: "row",
     borderColor: "#cccccc",
     borderBottomWidth: 2
@@ -121,7 +125,11 @@ const styles = StyleSheet.create({
   Text_20: { fontSize: 8, fontFamily: "Lato-Regular" },
   View_22: {
     width: "100%",
-    height: 65,
+    height: 60,
+    paddingLeft: 10,
+    paddingRight: 10,
+    paddingTop: 10,
+    paddingBottom: 10,
     flexDirection: "row",
     borderColor: "#cccccc",
     borderBottomWidth: 2
